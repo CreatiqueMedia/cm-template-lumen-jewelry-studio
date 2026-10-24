@@ -6,6 +6,7 @@ A CreatiqueMedia LLC commercial website template for jewelry studios.
 
 This public repository introduces the template. Template source code is not included.
 
+- [Live demo](https://creatiquemedia.com/templates/lumen-jewelry-studio/demo)
 - [Explore templates and request a custom build](https://creatiquemedia.com)
 - [View the CreatiqueMedia portfolio](https://github.com/CreatiqueMedia)
 - [Contact CreatiqueMedia](mailto:info@creatiquemedia.com)
